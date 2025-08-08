@@ -1,32 +1,122 @@
-📂 Project Details
+# 📊 Power BI Projects
+
+Welcome to my Power BI portfolio! This repository contains a collection of real-world business dashboards and reports created using Microsoft Power BI. Each project demonstrates practical data analysis, visualization, and business storytelling skills.
+
+---
+
+## 🚀 Projects Overview
+
+| Project Name                | Description                                      | Screenshot                                    |
+| --------------------------- | ------------------------------------------------ | --------------------------------------------- |
+| Sales Performance Dashboard | Analyze sales trends, top products, and regions  | ![Sales Dashboard](sales/screenshot.png)      |
+| Marketing Funnel Analysis   | Track user acquisition, drop-offs, and ROI       | ![Marketing Funnel](marketing/screenshot.png) |
+| Financial KPI Tracker       | Visualize profit/loss, cashflow, forecasts       | ![Financial KPI](finance/screenshot.png)      |
+| Customer Churn Analysis     | Cohort retention, churn drivers, customer trends | ![Churn Analysis](churn/screenshot.png)       |
+
+*(Update with your actual project names and screenshot paths.)*
+
+---
+
+## 🗂️ Repository Structure
+
+```
+/project-name/
+  ├── dataset.csv
+  ├── dashboard.pbix
+  ├── README.md
+  └── screenshots/
+```
+
+* Each project is in its own folder with data, Power BI file, and documentation.
+
+---
+
+## 📂 Project Details
+
 Below are write-up templates for individual projects. Copy/paste and update for each folder:
 
-1. Sales Performance Dashboard
-Business Problem:
+### 1. Sales Performance Dashboard
+
+**Business Problem:**
 Provide executives with actionable insights into monthly/quarterly sales performance across regions and product categories.
 
-Key Features:
+**Key Features:**
 
-Dynamic sales trend analysis (YoY/QoQ)
+* Dynamic sales trend analysis (YoY/QoQ)
+* Top/bottom product categories & regions
+* Interactive filtering by date, product, and region
+* KPIs: Total Revenue, Growth Rate, Avg Order Value
 
-Top/bottom product categories & regions
-
-Interactive filtering by date, product, and region
-
-KPIs: Total Revenue, Growth Rate, Avg Order Value
-
-Technologies Used:
+**Technologies Used:**
 Power BI, DAX, Data Modeling
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/103982094/216782890-f9986480-c2a9-455e-9533-3ac39f1e08e1.gif)
+**Sample Screenshot:**
+![Sales Dashboard](sales/screenshot.png)
 
+---
 
-![Screenshot (51)](https://user-images.githubusercontent.com/103982094/216826732-806dddc0-0469-4444-8f5c-4267f88d463b.png)
+### 2. Marketing Funnel Analysis
 
+**Business Problem:**
+Identify conversion bottlenecks in the user journey and measure campaign effectiveness.
 
-![HR Analytics Dashboard pic (3)](https://user-images.githubusercontent.com/103982094/213475537-683c4f49-7db7-42ea-b2e9-c75e3ea8d9cb.png)
+**Key Features:**
 
-![Sales Dshboard](https://user-images.githubusercontent.com/103982094/212984039-356ecc11-45a5-4af5-81a2-04feae6975de.png)
-3.![Screenshot (24)](https://user-images.githubusercontent.com/103982094/213265552-3cf7c915-aded-4c97-9f5e-0a39f9e349a5.png)
-4.![Dashboard pic](https://user-images.githubusercontent.com/103982094/213697049-8a38867a-a22d-437e-96fb-7e707b500e7b.png)
-![Dashboard Image](https://user-images.githubusercontent.com/103982094/219427635-5d1e5ea6-cefb-4bf3-b8ea-4ee469f7fc8c.png)
+* Visual funnel with conversion rates at each stage
+* Breakdown by channel/source
+* Campaign ROI and cost-per-acquisition
+* Drill-through to specific campaign data
+
+**Technologies Used:**
+Power BI, DAX, Power Query
+
+**Sample Screenshot:**
+![Marketing Funnel](marketing/screenshot.png)
+
+---
+
+### 3. \[Project Name]
+
+**Business Problem:**
+*Description of the business question or value of this dashboard.*
+
+**Key Features:**
+
+* *List main insights, visuals, and interactivity features*
+* *Highlight any advanced analysis or DAX formulas*
+
+**Technologies Used:**
+Power BI, DAX, \[other tools if used]
+
+**Sample Screenshot:**
+![Dashboard Screenshot](project-folder/screenshot.png)
+
+---
+
+## 🔧 How to Use
+
+1. [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+2. Clone or download this repository
+3. Open any `.pbix` file with Power BI Desktop to explore the dashboard
+
+---
+
+## 🧑‍💼 About Me
+
+\[Your Name] – Data Analyst / Business Intelligence Developer
+[LinkedIn](https://www.linkedin.com/in/yourprofile) | [GitHub](https://github.com/AnshD109)
+
+---
+
+## 🏷️ License
+
+This repository is licensed under the MIT License. Feel free to use for learning or inspiration!
+
+---
+
+### Tips:
+
+* Replace placeholder names with your actual project details.
+* Keep descriptions concise but focused on **business value** and **analytics skills**.
+* Always include at least one screenshot per project (PNG/JPG or GIF).
+* Optionally, add a “Learning Outcomes” or “What I Learned” section to show growth.
