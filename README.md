@@ -9,22 +9,14 @@ Welcome to my Power BI portfolio! This repository contains a collection of real-
 | Project Name                        | Description (to update)                               | Screenshot                         |
 |--------------------------------------|------------------------------------------------------|-------------------------------------|
 | Finance Dashboard                   | Visualize financial KPIs, profit/loss, cashflow      | [Finance Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Finance%20Dashboard/Dashboard%20pic.png) |
-| Gujarat Assembly Result Dashboard    | Election results analytics and party performance     | [Gujarat Assembly Result Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Gujarat%20Assembly%20Result%20Dashboard/Gujarat_Assembly.png)
- |
-| HR Analytics Dashboard               | Employee attrition, retention, and workforce trends  | [HR Analytics Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20pic.png)
- |
-| IT Expenditure Dashboard            | IT budget, spending breakdown, and cost optimization | [IT Expenditure Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/IT%20Expenditure%20Dashboard/IT%20Expenditure%20Pic.png)
- |
-| Interactive Sales Analysis Dashboard | Dynamic exploration of sales data by category/region | [Interactive Sales Analysis Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Interactive%20Sales%20Analysis%20Dashboard/Sales%20Dashboard%20Pic.png)
- |
-| Retail Store Analysis Dashboard     | Store performance, product mix, customer insights    | [Retail Store Analysis Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Retail%20Store%20Anlaysis%20Dashboard/Dashboard%20Pic.png)
- |
-| Sales Dashboard                     | High-level sales KPIs and trends                     | [Sales Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Sales%20Dashboard/Dashboard%20Pic.png)
- |
-| Sales Report Dashboard              | Detailed sales reporting and custom insights         | [Sales Report Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Sales%20Report%20Dashboard/Sales%20Report%20Pic.png)
- |
-| Store Sales Dashboard               | Focused view on store sales and KPIs                 | [Store Sales Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Store%20Sales%20Dashboard/Dashboard%20Image.png)
- |
+| Gujarat Assembly Result Dashboard    | Election results analytics and party performance     | [Gujarat Assembly Result Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Gujarat%20Assembly%20Result%20Dashboard/Gujarat_Assembly.png)|
+| HR Analytics Dashboard               | Employee attrition, retention, and workforce trends  | [HR Analytics Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20pic.png)|
+| IT Expenditure Dashboard            | IT budget, spending breakdown, and cost optimization | [IT Expenditure Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/IT%20Expenditure%20Dashboard/IT%20Expenditure%20Pic.png)|
+| Interactive Sales Analysis Dashboard | Dynamic exploration of sales data by category/region | [Interactive Sales Analysis Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Interactive%20Sales%20Analysis%20Dashboard/Sales%20Dashboard%20Pic.png)|
+| Retail Store Analysis Dashboard     | Store performance, product mix, customer insights    | [Retail Store Analysis Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Retail%20Store%20Anlaysis%20Dashboard/Dashboard%20Pic.png)|
+| Sales Dashboard                     | High-level sales KPIs and trends                     | [Sales Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Sales%20Dashboard/Dashboard%20Pic.png)|
+| Sales Report Dashboard              | Detailed sales reporting and custom insights         | [Sales Report Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Sales%20Report%20Dashboard/Sales%20Report%20Pic.png)|
+| Store Sales Dashboard               | Focused view on store sales and KPIs                 | [Store Sales Dashboard](https://github.com/AnshD109/PowerBI-Projects/blob/main/Store%20Sales%20Dashboard/Dashboard%20Image.png)|
 
 ---
 
