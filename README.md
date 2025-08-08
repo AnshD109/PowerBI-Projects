@@ -1,4 +1,22 @@
-# PowerBI-Project
+📂 Project Details
+Below are write-up templates for individual projects. Copy/paste and update for each folder:
+
+1. Sales Performance Dashboard
+Business Problem:
+Provide executives with actionable insights into monthly/quarterly sales performance across regions and product categories.
+
+Key Features:
+
+Dynamic sales trend analysis (YoY/QoQ)
+
+Top/bottom product categories & regions
+
+Interactive filtering by date, product, and region
+
+KPIs: Total Revenue, Growth Rate, Avg Order Value
+
+Technologies Used:
+Power BI, DAX, Data Modeling
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/103982094/216782890-f9986480-c2a9-455e-9533-3ac39f1e08e1.gif)
 
